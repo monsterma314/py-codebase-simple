@@ -26,10 +26,8 @@
 
 ### Terms
 
-Function - A python function exists in a .py file
-
 Module - A .py file that has reusable functions or classes. NOT intended as a standalone script.
 
-Package - A folder containg a `__init__.py` (can be blank decorator) to indicate a package
+Package - A folder containg `__init__.py` that holds related modules. `numpy` for example.
 
 NOTE: When importing you import a function or a class at a time. Or use * to grab all functions/classes.
